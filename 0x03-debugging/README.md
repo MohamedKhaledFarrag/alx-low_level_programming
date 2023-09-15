@@ -1,1 +1,1 @@
-manga manga
+manga
