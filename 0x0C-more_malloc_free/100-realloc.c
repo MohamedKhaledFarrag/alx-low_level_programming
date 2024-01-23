@@ -1,4 +1,4 @@
-#include "bootcamp.h"
+#include "main.h"
 /**
  * realloc-reallocate a memory block using malloc and free
  * @ptr: ptr to reallocate memory
